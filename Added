@@ -1,0 +1,4 @@
+class Super
+{
+system.out.println("PJJJIKOL")
+}
